@@ -1,7 +1,7 @@
 <?php
 
 // Init ACf Fields (Production Only)
-//require_once 'acf.php';
+require_once 'acf.php';
 
 
 // Init Options Page
